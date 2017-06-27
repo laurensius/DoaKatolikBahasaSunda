@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Doa Katolik Bahasa Sunda</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_keluar">Keluar</string>
+    <string name="title_activity_interstitial">Doa Katolik Bahasa Sunda</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3588177853851357/7249370421</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3588177853851357/8726103624</string>
+    <string name="doa">
+    {
+         \"doa\":[
+            {
+               \"nav_id\":\"nav_syahadat\",
+               \"nama_doa_indonesia\":\"Syahadat Para Rasul \",
+               \"nama_doa_sunda\":\"Syahadat Para Rasul \",
+               \"isi_doa\":\"Abdi percanten ka Gusti Allah Rama anu Maha Kawasa, \nanu nyiptakeun bumi sareng langit \nsareng ka Gusti Yesus Kristus, Putra-Na nu tunggal, Gusti abdi sadaya \nAnu ditampi ti Roh Suci, dibabarkeun ku Parawan Maria \nAnu nandangan sangsara waktos pamarentahan Pontius Pilatus, disalibkeun, pupus, teras dikurebkeun \nAnu lungsur ka tempat panyucian, sareng tanghi deui dina dinten katiluna \nAnu mungah ka Sawarga, linggih tengeneun Gusti Allah Rama nu Maha Kawasa \nTi dinya Anjeunna bakal sumping baris mutuskeun pangadilan ka anu harirup sareng anu maraot \nAbdi percanten ka Roh Suci \nka Gareja Katolik anu Suci \nPanghapuntenan dosa \nCengkatna badan \nHirup langgeng. \nAmin\"
+            },
+            {
+               \"nav_id\":\"nav_bapa_kami\",
+               \"nama_doa_indonesia\":\"Bapa Kami\",
+               \"nama_doa_sunda\":\"Kanjeng Rama\",
+               \"isi_doa\":\"Kanjeng Rama nu jumeneng di Sawarga \nMugi dimuliakeun Jenengan Gusti \nMugi sumping Karajaan Gusti \nMugi kalaksanakeun pangersa Gusti di dunya sapertos di Sawarga \nMugi Gusti maparin rejeki ka abdi sadaya dina dinten ieu \nSareng mugi Gusti ngahapunten kalepatan abdi sadaya, sapertos abdi sadaya oge ngahapunten ka nu garaduh kalepatan ka abdi \nSareng mugi Gusti ulah ngalebetkeun abdi sadaya kana panggoda, nanging mugi Gusti ngaleupaskeun abdi sadaya tina kaawonan.  Amin.\"
+            },
+            {
+               \"nav_id\":\"nav_salam_maria\",
+               \"nama_doa_indonesia\":\"Salam Maria\",
+               \"nama_doa_sunda\":\"Sembah Baktos\",
+               \"isi_doa\":\"Sembah baktos kaula Maria, pinuh ku sih kurnia, Pangeran nyarengan anjeun \ndiberkahan anjeun ti antawis para istri, sareng diberkahan buah kandungan anjeun, Gusti Yesus \nSanta Maria, Ibu Gusti Allah, abdi sadaya jalmi dosa nuhunkeun pidoana, ayeuna sareng engke dina waktos abdi sadaya maraot.  Amin.\"
+            },
+            {
+               \"nav_id\":\"nav_kemuliaan\",
+               \"nama_doa_indonesia\":\"Kemuliaan\",
+               \"nama_doa_sunda\":\"Kamuliaan\",
+               \"isi_doa\":\"Kamuliaan ka Rama sareng Putra sareng Roh Suci \nSapertos taya kaawonan ayeuna sareng kanggo salamina langgeng.  Amin.\"
+            },
+            {
+               \"nav_id\":\"nav_tanda_salib\",
+               \"nama_doa_indonesia\":\"Tanda Salib\",
+               \"nama_doa_sunda\":\"Tanda Salib\",
+               \"isi_doa\":\"Kalawan asmana Rama sareng Putra sareng Roh Suci. Amin\"
+            },
+            {
+               \"nav_id\":\"nav_perintah_allah\",
+               \"nama_doa_indonesia\":\"Sepuluh Perintah Allah\",
+               \"nama_doa_sunda\":\"Sapuluh Dahuwan Gusti Allah\",
+               \"isi_doa\":\" Kami Pangeran Allah maraneh \n1. Ulah nyembah berhala, tapi kudu sumujud ka Kami wungkul, jeung kudu asih ka Kami leuwih ti nu  lian-lian. \n2. Ulah nyebat Jenengan Gusti Allah, Pangeran maraneh kalawan henteu hormat. \n3. Kudu nguduskeun dinten Pangeran. \n4. Kudu hormat ka indung-bapa. \n5. Ulah maehan. \n6. Ulah rucah. \n7. Ulah maling. \n8. Ulah jadi saksi palsu ka sasama manusa. \n9. Ulah boga karep kana karucahan. \n10. Ulah hayang ngapimilik barang batur kalawan henteu adil. \"
+            },
+            {
+               \"nav_id\":\"nav_perintah_gereja\",
+               \"nama_doa_indonesia\":\"Lima Perintah Gereja\",
+               \"nama_doa_sunda\":\"Lima Dawuhan Gareja\",
+               \"isi_doa\":\"1. Rayakeun dinten-dinten agung anu disamikeun sareng dinten Minggu. \n2. Kedah ngiring Misa Suci dina dinten Minggu sareng dina dinten-dinten agung anu diwajibkeun, sareng ulah midamel padamelan anu diwagel. \n3. Ulah neda daging dina dinten pantang sareng kedah puasa dina dinten puasa. \n4. Angkenkeun disa sakirang-kirangna sataun sakali. \n5. Kedah nampi Komuni Suci dina waktos Paskah. \"
+            },
+            {
+               \"nav_id\":\"nav_doa_tobat\",
+               \"nama_doa_indonesia\":\"Doa Tobat\",
+               \"nama_doa_sunda\":\"Doa Tobat\",
+               \"isi_doa\":\"Duh Gusti, anu Maha Asih, abdi kaduhung pisan parantos midamel dosa. kumargi eta abdi wajib dihukum, \nmargi abdi parantos ngahina Anjeun anu Maha Murah sareng Maha Sae ka abdi. Abdi ngewa kana saniskanten dosa abdi, sareng abdi jangji ka Anjeun\nku sih pitulung rahmat Anjeun bade ngadangdosan kalakuan abdi, sareng moal midamel dosa deui. \nDuh Gusti, mugi Gusti mikawelas ka abdi jalmi anu dosa.  Amin.\"
+            },
+            {
+               \"nav_id\":\"nav_doa_pagi\",
+               \"nama_doa_indonesia\":\"Doa Pagi\",
+               \"nama_doa_sunda\":\"Doa Enjing / Sembahyang Enjing\",
+               \"isi_doa\":\"Duh Gusti anu Maha Agung, abdi sujud dipayuneun Anjeun. \nAbdi ngahaturkeun nuhun, margi Gusti parantos ngaraksa abdi dina wengi tadi. \nDina dinten ieu abdi nyembahkeun diri pribadi ka Gusti, padamelan, suka-duka, sareng doa-doa abdi. \nDuh Gusti, mugi gusti kersa nangtayungan ka abdi sakulawargi, supados satia kana niat abdi.\nAmin.\n\nSaterasna : Kanjeng Rama . . . ; Sembah baktos . . . ; Kamuliaan . . .\"
+            },
+            {
+               \"nav_id\":\"nav_doa_malam\",
+               \"nama_doa_indonesia\":\"Doa Malam\",
+               \"nama_doa_sunda\":\"Doa Wengi / Sembahyang Wengi\",
+               \"isi_doa\":\"Duh Gusti anu Maha Murah, abdi sujud dipayuneun Anjeun. \nAbdi muji sukur ka Gusti kana samudaya berkah sareng kamurahan Gusti, \nanu parantos katampi ku abdi dina dinten ieu. \nAbdi rumaos seueur kalepatan ka Anjeun sareng ka sasama, boh ku emutan, boh ku cariosan atanapi padamelan. \nAbdi nuhunkeun dihapunten, sareng mugi Gusti kersa ngalungsurkeun Roh Suci kanggo nyaangan hate abdi. \nAmin. \n\nSaterasna : Kanjeng Rama . . . ; Sembah baktos . . . ; Kamuliaan . . .\"
+            },
+            {
+               \"nav_id\":\"nav_peristiwa_gembira\",
+               \"nama_doa_indonesia\":\"Lima Peristiwa Gembira\",
+               \"nama_doa_sunda\":\"Lima Kajantenan anu Gumbira (Ngabingahkeun)\",
+               \"isi_doa\":\"1. Maria nampi wartos gumbira ti Malaikat Gabriel. \n2. Santa Maria mendakan Elisabet saderekna . \n3. Gusti Yesus dibabarkeun di Betlehem. \n4. Gusti Yesus disanggakeun ka Rama-Na di Gedong Allah. \n5. Gusti Yesus kapendak deui di Gedong Allah. \"
+            },
+            {
+               \"nav_id\":\"nav_peristiwa_sedih\",
+               \"nama_doa_indonesia\":\"Lima Peristiwa Sedih\",
+               \"nama_doa_sunda\":\"Lima Kajantenan anu Sedih\",
+               \"isi_doa\":\"1. Gusti Yesus ngadoa di taman Getsemani. \n2. Gusti Yesus dirangketan . \n3. Gusti Yesus dimakutaan cucuk. \n4. Gusti Yesus manggul salib na ka Golgota. \n5. Gusti Yesus pupus dina kayu salib. \"
+            },
+            {
+               \"nav_id\":\"nav_peristiwa_mulia\",
+               \"nama_doa_indonesia\":\"Lima Peristiwa Mulia\",
+               \"nama_doa_sunda\":\"Lima Kajantenan anu Mulya\",
+               \"isi_doa\":\"1. Gusti Yesus tanghi deui ti nu maot. \n2. Gusti Yesus munggah ka Sawarga . \n3. Roh Suci sumping ka Para Rasul. \n4. Santa Maria diangkat ka Sawarga. \n5. Santa Maria nampi makuta Ratu Sawarga. \"
+            },
+            {
+               \"nav_id\":\"nav_rosario\",
+               \"nama_doa_indonesia\":\"Urutan Doa Rosario\",
+               \"nama_doa_sunda\":\"Runutan Doa Rosario\",
+               \"isi_doa\":\"1. Syahadat Para Rasul . . . \n2. Kamuliaan . . . - Kanjeng Rama . . . \n3. Salam Gusti Allah Rama - Sembah baktos . . . \n4. Salam Ibu Gusti Allah Putra - Sembah baktos . . . \n5. Salam Panganten Roh Suci - Sembah baktos . . .  \n6. Kamuliaan . . . - Kajantenan (Sedih/Gumbira/Mulya) anu ka hiji - Kanjeng Rama . . . \n7. Sembah baktos . . . (10x)  \n8. Kamuliaan . . . - Kajantenan (Sedih/Gumbira/Mulya) anu ka dua - Kanjeng Rama . . . \n9. Sembah baktos . . . (10x) \n10. Kamuliaan . . . - Kajantenan (Sedih/Gumbira/Mulya) anu ka tilu - Kanjeng Rama . . . \n11. Sembah baktos . . . (10x) \n12. Kamuliaan . . . - Kajantenan (Sedih/Gumbira/Mulya) anu ka opat - Kanjeng Rama . . . \n13. Sembah baktos . . . (10x) \n14. Kamuliaan . . . - Kajantenan (Sedih/Gumbira/Mulya) anu ka lima - Kanjeng Rama . . . \n15. Sembah baktos . . . (10x) \n16. Kamuliaan . . . \"
+            }
+         ]
+    }
+    </string>
+
+</resources>

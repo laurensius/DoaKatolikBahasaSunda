@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tanda_salib"
+            android:icon="@mipmap/doa"
+            android:title="Tanda Salib" />
+        <item
+            android:id="@+id/nav_syahadat"
+            android:icon="@mipmap/doa"
+            android:title="Syahadat Para Rasul" />
+        <item
+            android:id="@+id/nav_bapa_kami"
+            android:icon="@mipmap/doa"
+            android:title="Kanjeng Rama" />
+        <item
+            android:id="@+id/nav_salam_maria"
+            android:icon="@mipmap/doa"
+            android:title="Sembah Baktos" />
+        <item
+            android:id="@+id/nav_kemuliaan"
+            android:icon="@mipmap/doa"
+            android:title="Kamuliaan" />
+        <item
+            android:id="@+id/nav_doa_pagi"
+            android:icon="@mipmap/doa"
+            android:title="Doa Enjing" />
+        <item
+            android:id="@+id/nav_doa_malam"
+            android:icon="@mipmap/doa"
+            android:title="Doa Wengi" />
+        <item
+            android:id="@+id/nav_rosario"
+            android:icon="@mipmap/doa"
+            android:title="Rosario" />
+        <item
+            android:id="@+id/nav_doa_tobat"
+            android:icon="@mipmap/doa"
+            android:title="Doa Tobat" />
+        <item
+            android:id="@+id/nav_perintah_allah"
+            android:icon="@mipmap/doa"
+            android:title="10 Dawuhan Gusti Allah" />
+        <item
+            android:id="@+id/nav_perintah_gereja"
+            android:icon="@mipmap/doa"
+            android:title="5 Dawuhan Gareja" />
+        <item
+            android:id="@+id/nav_peristiwa_gembira"
+            android:icon="@mipmap/doa"
+            android:title="5 Kajantenan anu Gumbira" />
+        <item
+            android:id="@+id/nav_peristiwa_sedih"
+            android:icon="@mipmap/doa"
+            android:title="5 Kajantenan anu Sedih" />
+        <item
+            android:id="@+id/nav_peristiwa_mulia"
+            android:icon="@mipmap/doa"
+            android:title="5 Kajantenan anu Mulia" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_keluar"
+                android:icon="@mipmap/doa"
+                android:title="Kaluar" />
+        </menu>
+    </item>
+
+</menu>
